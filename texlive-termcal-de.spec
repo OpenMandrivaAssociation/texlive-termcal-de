@@ -1,6 +1,6 @@
 Name:		texlive-termcal-de
 Version:	47111
-Release:	1
+Release:	2
 Summary:	German localization for termcal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termcal-de
