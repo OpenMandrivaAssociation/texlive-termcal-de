@@ -3,7 +3,7 @@ Version:	47111
 Release:	2
 Summary:	German localization for termcal
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termcal-de
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/termcal-de
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termcal-de.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termcal-de.doc.r%{version}.tar.xz
